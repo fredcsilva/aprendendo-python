@@ -1,0 +1,61 @@
+Cursos 1, 2 e 3  em paralelo
+
+No github: https://github.com/fredcsilva/aprendendo-python
+O curso será construído no diretório "/notebooks".
+
+====> 1. https://github.com/trekhleb/learn-python
+# Getting Started
+# Operators
+# Data Types
+# Control Flow
+# Functions
+# Classes
+# Modules
+# Errors and Exceptions
+# Files
+# Additions
+# Brief Tour of the Standard Libraries
+	Serialization (json library)
+	File Wildcards (glob library)
+	String Pattern Matching (re library)
+	Mathematics (math, random, statistics libraries)
+	Dates and Times (datetime library)
+	Data Compression (zlib library)
+# User input
+
+====> 2. https://www.learnpython.org/
+Hello, World!
+Variables and Types
+Lists
+Basic Operators
+String Formatting
+Basic String Operations
+Conditions
+Loops
+Functions
+Classes and Objects
+Dictionaries
+Modules and Packages
+
+# Data Science Tutorials
+Numpy Arrays
+Pandas Basics
+
+# Advanced Tutorials
+Generators
+List Comprehensions
+Lambda functions
+Multiple Function Arguments
+Regular Expressions
+Exception Handling
+Sets
+Serialization
+Partial functions
+Code Introspection
+Closures
+Decorators
+Map, Filter, Reduce
+
+====> 3. Curso Completo
+	- Curso: https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe
+		=> Parei no vídeo 2 (https://www.youtube.com/watch?v=sC6mqcLSkZo&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe&index=2)
