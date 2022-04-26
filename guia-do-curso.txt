@@ -3,7 +3,7 @@ Cursos 1, 2 e 3  em paralelo
 No github: https://github.com/fredcsilva/aprendendo-python
 O curso será construído no diretório "/notebooks".
 
-=> No diretório raiz: "botão direito" => "git bash here"
+=> No diretório raiz: "botão direito" => "git bash here"; $ jupyter notebook;
 
 ====> 1. https://github.com/trekhleb/learn-python
 # Getting Started
