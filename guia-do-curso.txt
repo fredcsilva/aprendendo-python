@@ -8,7 +8,7 @@ O curso será construído no diretório "/notebooks".
 ====> 1. https://github.com/trekhleb/learn-python
 # Getting Started (OK)
     Python Syntax (OK)
-    Variables
+    Variables 
 # Operators
 # Data Types
 # Control Flow
