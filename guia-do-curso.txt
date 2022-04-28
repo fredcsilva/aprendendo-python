@@ -6,7 +6,9 @@ O curso será construído no diretório "/notebooks".
 => No diretório raiz: "botão direito" => "git bash here"
 
 ====> 1. https://github.com/trekhleb/learn-python
-# Getting Started
+# Getting Started (OK)
+    Python Syntax (OK)
+    Variables
 # Operators
 # Data Types
 # Control Flow
@@ -26,7 +28,7 @@ O curso será construído no diretório "/notebooks".
 # User input
 
 ====> 2. https://www.learnpython.org/
-Hello, World!
+Hello, World! (OK)
 Variables and Types
 Lists
 Basic Operators
